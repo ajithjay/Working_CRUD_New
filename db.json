@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Ash",
+      "class": "12",
+      "email": "ashiq.rahman@gmail.co",
+      "mobile": "2255189561"
+    },
+    {
+      "id": 4,
+      "name": "Srila",
+      "class": "10",
+      "email": "sri.laxmy@gmail.com",
+      "mobile": "8899675412"
+    },
+    {
+      "id": 5,
+      "name": "AJi",
+      "class": "12",
+      "email": "sadfa",
+      "mobile": "13213213"
+    },
+    {
+      "id": 6,
+      "name": "Alin",
+      "class": "2",
+      "email": "alin.a@gmail.com",
+      "mobile": "12456894694"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
